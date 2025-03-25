@@ -4,20 +4,17 @@
 import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
-  lang: 'en-US',
-  site: 'https://slate-blog-demo.vercel.app',
+  lang: 'zh-CN',
+  site: 'https://blog.chieh.nyc.mn',
   avatar: '/avatar.png',
-  title: 'Slate Blog',
-  description: 'Pure thoughts, simple stories.',
+  title: 'Chieh的随笔',
+  description: '随便写写',
   lastModified: true,
   readTime: true,
   footer: {
     copyright: '© 2025 Slate Design',
   },
   socialLinks: [
-    {
-      icon: 'github',
-      link: 'https://github.com/SlateDesign/slate-blog'
-    },
+    
 ]
 });
