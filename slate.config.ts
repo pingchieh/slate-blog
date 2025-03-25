@@ -6,7 +6,7 @@ import { defineConfig } from './src/helpers/config-helper';
 export default defineConfig({
   lang: 'zh-CN',
   site: 'https://blog.chieh.nyc.mn',
-  avatar: '/avatar.png',
+  avatar: '/avatar.jpg',
   title: 'Chieh的随笔',
   description: '随便写写',
   lastModified: true,
