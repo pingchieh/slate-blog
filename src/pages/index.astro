@@ -69,11 +69,14 @@ const posts = [...postCollection]
             <span class="shrink-0">{item.data.title}</span>
             <span class="border-slate6 mx-8 hidden h-px w-full grow border-t border-dashed sm:flex" />
             <span class="text-slate8 shrink-0">
-              {item.data.pubDate?.toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'short',
-                day: 'numeric',
-              })}
+              {item.data.pubDate?.toLocaleDateString(
+                slateConfig?.lang || 'en-US',
+                {
+                  year: 'numeric',
+                  month: 'short',
+                  day: 'numeric',
+                },
+              )}
             </span>
           </a>
         ))
