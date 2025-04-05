@@ -34,12 +34,12 @@ const lastModifiedDate = dayjs(
     : undefined,
 );
 const lastModified = lastModifiedDate.isSame(dayjs(), 'year')
-  ? lastModifiedDate.format('MMM DD')
-  : lastModifiedDate.format('MMM DD, YYYY');
+  ? lastModifiedDate.format('MM/DD')
+  : lastModifiedDate.format('YYYY/MM/DD');
 const pubDate = dayjs(post.data.pubDate);
 const formattedPubDate = pubDate.isSame(dayjs(), 'year')
-  ? pubDate.format('MMM DD')
-  : pubDate.format('MMM DD, YYYY');
+  ? pubDate.format('MM/DD')
+  : pubDate.format('YYYY/MM/DD');
 ---
 
 <PageLayout title={post.data.title} description={post.data.description}>
