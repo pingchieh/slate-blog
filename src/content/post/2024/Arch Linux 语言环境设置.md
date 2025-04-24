@@ -3,7 +3,7 @@ title: Arch Linux 语言环境设置
 description: 本文详细介绍了在 Arch Linux 上配置语言环境的步骤，包括安装语言包、编辑 locale.gen 文件、生成语言环境、配置系统和用户语言环境，以及验证设置的正确性。
 tags: [ArchLinux, Linux]
 pubDate: 2024-08-02
-draft: false
+draft: true
 ---
 
 ## 1. 安装语言包

@@ -3,7 +3,7 @@ title: 在Docker中启用IPv6支持
 description: 本文讨论如何在Docker中启用IPv6支持，并处理动态IPv6地址带来的配置挑战，包括使用ULA地址、动态调整fixed-cidr-v6、NAT66和IPv6代理等方法。
 tags: [Docker, IPv6, 网络配置]
 pubDate: 2024-08-02
-draft: false
+draft: true
 ---
 
 随着互联网的迅速发展，IPv6正在逐渐取代IPv4成为主流。对于开发者和系统管理员来说，在Docker容器中启用IPv6支持变得越来越重要。然而，在实际操作中，尤其是当宿主机的IPv6地址是动态分配的情况下，配置IPv6并非总是直截了当的。在这篇博客中，我们将讨论如何在Docker中启用IPv6，并处理动态IPv6地址的挑战。

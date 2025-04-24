@@ -3,7 +3,7 @@ title: "深入了解 Git Reset --hard 命令"
 description: "本文深入探讨如何使用 git reset --hard 命令，包括其基本用法、注意事项以及如何强制推送到远程仓库。了解其功能和风险，帮助你更安全地管理代码历史。"
 tags: [Git]
 pubDate: 2024-08-02
-draft: false
+draft: true
 ---
 
 在使用 Git 进行版本控制的过程中，有时会遇到需要回退到之前某个状态的情况。无论是修复错误，还是恢复到某个稳定版本，git reset --hard <commit_hash> 都是一个强大而高效的工具。在这篇博客中，我们将深入探讨如何使用 git reset --hard 命令，以及它的注意事项。
