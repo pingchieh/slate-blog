@@ -120,7 +120,7 @@
   }
 
   figcaption {
-    @apply hidden;
+    @apply text-slate8 -mt-4 text-center text-sm;
   }
 
   .expressive-code {
