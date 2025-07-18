@@ -18,6 +18,7 @@ It also works seamlessly with [Obsidian](https://obsidian.md/), helping you turn
 - Built-in RSS feed with Follow authentication
 - Integrated Algolia search functionality
 - Comprehensive SEO optimization for better search rankings
+- Horizontal multi-image layout with automatic column distribution
 
 ## 🪜 Framework
 
