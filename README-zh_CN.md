@@ -185,6 +185,19 @@ pubDate: 2025-01-06
 - 支持深色模式
 - 修复已知问题
 
-## Star
+## 使用本主题的博客
+以下是一些使用这个主题搭建的博客：
+- [Bluepikachu](https://bluepika.life/)
+- [Chieh的随笔](https://blog.chieh.nyc.mn/)
+- [Feazur](https://blog.feazur.com/)
+- [Folay's Blog](https://www.folay.top/)
+- [LeeZhian](https://leezhian.com/)
+- [nmsisecho](https://astro-example-liard.vercel.app/)
+- [Randy's Blog](https://lutaonan.com/)
+- [Sulle orme dell'Alfiere Nero](https://sulleormedellalfierenero.pusi77.eu.org/)
+- [三墩冰室](https://lmd.gg/)
+- [小企鹅爸爸的生活](https://www.penguinpapa.life/)
+
+## Star 历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SlateDesign/slate-blog&type=Date)](https://www.star-history.com/#SlateDesign/slate-blog&Date)
