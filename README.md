@@ -188,6 +188,19 @@ Using `:::` markers
 - Added dark mode support
 - Fixed known issues
 
+## Blogs using this theme
+Here are some blogs built with this theme:
+- [Bluepikachu](https://bluepika.life/)
+- [Chieh的随笔](https://blog.chieh.nyc.mn/)
+- [Feazur](https://blog.feazur.com/)
+- [Folay's Blog](https://www.folay.top/)
+- [LeeZhian](https://leezhian.com/)
+- [nmsisecho](https://astro-example-liard.vercel.app/)
+- [Randy's Blog](https://lutaonan.com/)
+- [Sulle orme dell'Alfiere Nero](https://sulleormedellalfierenero.pusi77.eu.org/)
+- [三墩冰室](https://lmd.gg/)
+- [小企鹅爸爸的生活](https://www.penguinpapa.life/)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SlateDesign/slate-blog&type=Date)](https://www.star-history.com/#SlateDesign/slate-blog&Date)
